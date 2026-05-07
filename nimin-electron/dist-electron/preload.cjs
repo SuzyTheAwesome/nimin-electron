@@ -1,2 +1,0 @@
-let e=require(`electron`);e.contextBridge.exposeInMainWorld(`electronAPI`,{platform:process.platform}),e.contextBridge.exposeInMainWorld(`saveAPI`,{getSync:t=>e.ipcRenderer.sendSync(`save:getSync`,t),hasSync:t=>e.ipcRenderer.sendSync(`save:hasSync`,t),keysSync:()=>e.ipcRenderer.sendSync(`save:keysSync`),set:(t,n)=>e.ipcRenderer.invoke(`save:set`,t,n),delete:t=>e.ipcRenderer.invoke(`save:delete`,t),exportFile:t=>e.ipcRenderer.invoke(`save:exportFile`,t),importFile:()=>e.ipcRenderer.invoke(`save:importFile`)});
-//# sourceMappingURL=preload.cjs.map

@@ -11,8 +11,9 @@ meant to be experienced — for free, forever.
 
 ## Credit
 All original game content, writing, and design belong to **Xadera**.  
+Original source repository: https://github.com/XaderaDiddle/Nimin  
 This port exists solely to preserve their work for future generations.  
-If Xadera wishes to be involved or has concerns, please reach out.
+If Xadera wishes to be involved or has concerns, please reach out
 
 ## Status
 Core port is complete. Bug fixing and playtesting are ongoing.  

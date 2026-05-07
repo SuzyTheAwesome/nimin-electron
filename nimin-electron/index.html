@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nimin: Fetish Fantasy</title>
+  </head>
+  <body>
+    <!-- Main game layout -->
+    <div id="game-wrapper">
+      <!-- Top bar: stats + day/time -->
+      <div id="stat-bar" class="hidden">
+        <div id="stat-pane">
+          <span class="stat-label">STR</span><span id="str-num" class="stat-val">0</span>
+          <span class="stat-label">MEN</span><span id="ment-num" class="stat-val">0</span>
+          <span class="stat-label">LIB</span><span id="lib-num" class="stat-val">0</span>
+          <span class="stat-label">SEN</span><span id="sen-num" class="stat-val">0</span>
+          <span class="stat-label">HP</span><span id="hp-num" class="stat-val">0</span>
+          <span class="stat-label">LUST</span><span id="lust-num" class="stat-val">0</span>
+          <span class="stat-label">HUNGER</span><span id="hunger-num" class="stat-val">0</span>
+        </div>
+        <div id="level-pane">
+          <span class="stat-label">LVL</span><span id="level-num" class="stat-val">0</span>
+          <span class="stat-label">SXP</span><span id="sexp-num" class="stat-val">0</span>
+          <span class="stat-label">&#9775;</span><span id="coin-num" class="stat-val">0</span>
+        </div>
+        <div id="day-pane">
+          <span class="stat-label">Day</span><span id="day-num" class="stat-val">0</span>
+          <span class="stat-label">Hour</span><span id="hour-num" class="stat-val">8</span>
+          <span id="current-region" class="stat-label region-text"></span>
+        </div>
+      </div>
+
+      <!-- Main content area -->
+      <div id="content-area">
+        <!-- Left: output + buttons -->
+        <div id="main-panel">
+          <div id="output-window"></div>
+
+          <!-- Button grid: 3 columns × 4 rows = 12 buttons.
+               Amount badges live inside their owning button so they overlay correctly. -->
+          <div id="button-grid">
+            <button class="choice-btn hidden" id="btn-1"><span class="amount-badge hidden" id="amt-1"></span></button>
+            <button class="choice-btn hidden" id="btn-2"><span class="amount-badge hidden" id="amt-2"></span></button>
+            <button class="choice-btn hidden" id="btn-3"><span class="amount-badge hidden" id="amt-3"></span></button>
+            <button class="choice-btn hidden" id="btn-4"></button>
+            <button class="choice-btn hidden" id="btn-5"><span class="amount-badge hidden" id="amt-5"></span></button>
+            <button class="choice-btn hidden" id="btn-6"><span class="amount-badge hidden" id="amt-6"></span></button>
+            <button class="choice-btn hidden" id="btn-7"><span class="amount-badge hidden" id="amt-7"></span></button>
+            <button class="choice-btn hidden" id="btn-8"></button>
+            <button class="choice-btn hidden" id="btn-9"><span class="amount-badge hidden" id="amt-9"></span></button>
+            <button class="choice-btn hidden" id="btn-10"><span class="amount-badge hidden" id="amt-10"></span></button>
+            <button class="choice-btn hidden" id="btn-11"><span class="amount-badge hidden" id="amt-11"></span></button>
+            <button class="choice-btn hidden" id="btn-12"></button>
+          </div>
+
+          <!-- Page indicator (for list pagination) -->
+          <div id="page-indicator" class="hidden"></div>
+
+          <!-- Move item display -->
+          <div id="move-item-area" class="hidden">
+            <span id="move-item-label"></span>
+            <span id="move-item-amount"></span>
+          </div>
+        </div>
+
+        <!-- Right: side panel (appearance / stats) -->
+        <div id="side-panel" class="hidden">
+          <div id="side-tabs">
+            <button class="side-tab" id="side-1">Appear</button>
+            <button class="side-tab" id="side-2">Stats</button>
+            <button class="side-tab" id="side-3">Status</button>
+            <button class="side-tab" id="side-4">Help</button>
+            <button class="side-tab" id="side-5">Levels</button>
+            <button class="side-tab" id="side-6">Gear</button>
+            <button class="side-tab" id="side-7">Titles</button>
+            <button class="side-tab" id="side-8">Credits</button>
+          </div>
+          <div id="side-window"></div>
+        </div>
+      </div>
+
+      <!-- Bottom toolbar: meta actions -->
+      <div id="toolbar">
+        <button id="btn-new-game" class="toolbar-btn">New Game</button>
+        <button id="btn-save" class="toolbar-btn hidden">Save</button>
+        <button id="btn-load" class="toolbar-btn hidden">Load</button>
+        <button id="btn-toggle-side" class="toolbar-btn hidden">&#8942; Side</button>
+        <!-- Options row -->
+        <div id="options-row">
+          <button class="opt-btn" id="opt-1" title="Toggle Theme">&#9680;</button>
+          <button class="opt-btn" id="opt-2" title="Font Smaller">A-</button>
+          <button class="opt-btn" id="opt-3" title="Font Reset">A</button>
+          <button class="opt-btn" id="opt-4" title="Font Larger">A+</button>
+          <button class="opt-btn" id="opt-5" title="Toggle Bold"><b>B</b></button>
+          <button class="opt-btn" id="opt-6" title="Toggle Color">&#127752;</button>
+        </div>
+      </div>
+    </div>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

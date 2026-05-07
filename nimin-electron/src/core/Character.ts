@@ -1,0 +1,326 @@
+/**
+ * Character.ts
+ * Ported from Character.as
+ * Used as the serialization structure for save/load.
+ * All fields mirror the GameState singleton exactly.
+ */
+
+export class Character {
+  cstr: number = 0
+  day: number = 0
+  hour: number = 8
+  inDungeon: boolean = false
+  currentDungeon: number = 0
+  currentState: number = 0
+  currentZone: number = 0
+
+  str: number = 0
+  ment: number = 0
+  lib: number = 0
+  sen: number = 0
+  HP: number = 0
+  lust: number = 0
+  coin: number = 0
+  strMod: number = 0
+  mentMod: number = 0
+  libMod: number = 0
+  senMod: number = 0
+  strength: number = 0
+  mentality: number = 0
+  libido: number = 0
+  sensitivity: number = 0
+  hunger: number = 0
+
+  SexP: number = 0
+  levelUP: number = 0
+  level: number = 0
+
+  runMod: number = 0
+  rapeMod: number = 0
+  cumMod: number = 1
+  cockSizeMod: number = 1
+  vagSizeMod: number = 1
+  vagElastic: number = 1
+  milkMod: number = 0
+  carryMod: number = 0
+  vagBellyMod: number = 0
+  pregChanceMod: number = 0
+  extraPregChance: number = 0
+  pregTimeMod: number = 0
+  enticeMod: number = 0
+  milkHPMod: number = 0
+  changeMod: number = 1
+  HPMod: number = 0
+  SexPMod: number = 1
+  minLust: number = 0
+  milkCap: number = 0
+  coinMod: number = 0
+  hipMod: number = 1
+  buttMod: number = 1
+  bellyMod: number = 0
+  cockMoistMod: number = 0
+  vagMoistMod: number = 0
+  lockTail: number = 0
+  lockFace: number = 0
+  lockSkin: number = 0
+  lockBreasts: number = 0
+  lockEars: number = 0
+  lockLegs: number = 0
+  lockNipples: number = 0
+  lockCock: number = 0
+
+  gender: number = 0
+  race: number = 0
+  body: number = 0
+  dominant: number = 0
+  hips: number = 0
+  butt: number = 0
+  tallness: number = 0
+  skinType: number = 0
+  tail: number = 0
+  ears: number = 0
+  hair: number = 0
+  hairLength: number = 0
+  hairColor: number = 0
+  legType: number = 0
+  wings: number = 0
+  faceType: number = 0
+  skinColor: number = 0
+
+  cockTotal: number = 0
+  humanCocks: number = 0
+  horseCocks: number = 0
+  wolfCocks: number = 0
+  catCocks: number = 0
+  lizardCocks: number = 0
+  rabbitCocks: number = 0
+  cockSize: number = 0
+  cockMoist: number = 0
+  balls: number = 0
+  ballSize: number = 0
+  showBalls: boolean = true
+  knot: boolean = false
+  bugCocks: number = 0
+
+  breastSize: number = 0
+  boobTotal: number = 0
+  nippleSize: number = 1
+  udders: boolean = false
+  udderSize: number = 0
+  teatSize: number = 0
+  clitSize: number = 0
+  vagTotal: number = 0
+  vagSize: number = 0
+  vagMoist: number = 0
+  vulvaSize: number = 0
+  nipType: number = 0
+
+  attireTop: number = 1
+  attireBot: number = 2
+  weapon: number = 10
+
+  pregArray: any[] = []
+  pregStatus: number = 0
+  pregnancyTime: number = 0
+  pregRate: number = 1
+  eggLaying: number = 0
+  eggMaxTime: number = 0
+  eggTime: number = 0
+  eggRate: number = 0
+  exhaustion: number = 0
+  exhaustionPenalty: number = 0
+  milkEngorgement: number = 0
+  milkEngorgementLevel: number = 0
+  udderEngorgement: number = 0
+  udderEngorgementLevel: number = 0
+  heat: number = 0
+  heatTime: number = 0
+  heatMaxTime: number = 0
+  lactation: number = 0
+  udderLactation: number = 0
+  nipplePlay: number = 0
+  udderPlay: number = 0
+  blueBalls: number = 0
+  teatPump: number = 0
+  nipPump: number = 0
+  cockPump: number = 0
+  clitPump: number = 0
+  vulvaPump: number = 0
+  masoPot: number = 0
+  sMasoPot: number = 0
+  babyFree: number = 0
+  charmTime: number = 0
+  pheromone: number = 0
+  eggceleratorTime: number = 0
+  eggceleratorDose: number = 0
+  bodyOil: number = 0
+  lustPenalty: number = 0
+  snuggleBall: boolean = false
+  fertileGel: number = 0
+  eggType: number = 0
+  milkSuppressant: number = 0
+  milkSuppressantLact: number = 0
+  milkSuppressantUdder: number = 0
+  suppHarness: boolean = false
+  fertilityStatueCurse: number = 0
+  plumpQuats: number = 0
+  lilaWetStatus: number = 0
+  cockSnakePreg: number = 0
+  milkCPoisonNip: number = 0
+  milkCPoisonUdd: number = 0
+  cockSnakeVenom: number = 0
+
+  humanAffinity: number = 0
+  horseAffinity: number = 0
+  wolfAffinity: number = 0
+  catAffinity: number = 0
+  cowAffinity: number = 0
+  lizardAffinity: number = 0
+  rabbitAffinity: number = 0
+  fourBoobAffinity: number = 0
+  mouseAffinity: number = 0
+  birdAffinity: number = 0
+  pigAffinity: number = 0
+  twoBoobAffinity: number = 0
+  sixBoobAffinity: number = 0
+  eightBoobAffinity: number = 0
+  tenBoobAffinity: number = 0
+  cowTaurAffinity: number = 0
+  humanTaurAffinity: number = 0
+  skunkAffinity: number = 0
+  bugAffinity: number = 0
+
+  lilaRep: number = 0
+  lilaVulva: number = 0
+  lilaMilk: number = 0
+  lilaPreg: number = -2
+  malonRep: number = 0
+  malonPreg: number = 0
+  malonChildren: number = 0
+  mistressRep: number = 0
+  jamieRep: number = 0
+  jamieSize: number = 4
+  jamieChildren: number = 0
+  silRep: number = 0
+  silPreg: number = 0
+  silRate: number = 0
+  silLay: number = 10
+  silTied: boolean = false
+  silGrowthTime: number = 0
+  lilaUB: boolean = false
+  dairyFarmBrand: boolean = false
+  jamieRep1: number = 0
+  jamieRep2: number = 0
+  jamieRep3: number = 0
+  lilaWetness: number = 0
+  jamieButt: boolean = false
+  jamieBreasts: boolean = false
+  jamieHair: boolean = false
+
+  travArray: any[] = []
+
+  foundSoftlik: boolean = false
+  foundFirmshaft: boolean = false
+  foundTieden: boolean = false
+  foundSizCalit: boolean = false
+  foundOviasis: boolean = false
+  foundValley: boolean = false
+  foundSanctuary: boolean = false
+  defeatedMinotaur: boolean = false
+  defeatedFreakyGirl: boolean = false
+  defeatedSuccubus: boolean = false
+  firstExplore: boolean = false
+
+  knowLustDraft: boolean = false
+  knowRejuvPot: boolean = false
+  knowExpPreg: boolean = false
+  knowBallSwell: boolean = false
+  knowMaleEnhance: boolean = false
+
+  knowSLustDraft: boolean = false
+  knowSRejuvPot: boolean = false
+  knowSExpPreg: boolean = false
+  knowSBallSwell: boolean = false
+  knowBabyFree: boolean = false
+  knowPotPot: boolean = false
+  knowGenSwap: boolean = false
+  knowMasoPot: boolean = false
+  knowMilkSuppress: boolean = false
+
+  knowSGenSwap: boolean = false
+  knowSMasoPot: boolean = false
+  knowSBabyFree: boolean = false
+  knowSPotPot: boolean = false
+  knowPussJuice: boolean = false
+  knowPheromone: boolean = false
+  knowBazoomba: boolean = false
+
+  babyFactLevel: number = 0
+  bodyBuildLevel: number = 0
+  hyperHappyLevel: number = 0
+  alchemistLevel: number = 0
+  fetishMasterLevel: number = 0
+  milkMaidLevel: number = 0
+  shapeshiftyLevel: number = 0
+  shapeshiftyFirst: string = ''
+  shapeshiftySecond: string = ''
+
+  maleFetish: number = 1
+  femaleFetish: number = 1
+  hermFetish: number = 1
+  narcissistFetish: number = 1
+  dependentFetish: number = 1
+
+  dominantFetish: number = 1
+  submissiveFetish: number = 1
+  lboobFetish: number = 1
+  sboobFetish: number = 1
+  furryFetish: number = 1
+  scalyFetish: number = 1
+  smoothyFetish: number = 1
+
+  pregnancyFetish: number = 1
+  bestialityFetish: number = 1
+  milkFetish: number = 1
+  sizeFetish: number = 1
+  unbirthingFetish: number = 1
+  ovipositionFetish: number = 1
+  toyFetish: number = 1
+  hyperFetish: number = 1
+
+  currentDayCare: number = 0
+  humanChildren: number = 0
+  equanChildren: number = 0
+  lupanChildren: number = 0
+  felinChildren: number = 0
+  cowChildren: number = 0
+  lizanEggs: number = 0
+  lizanChildren: number = 0
+  bunnionChildren: number = 0
+  wolfPupChildren: number = 0
+  miceChildren: number = 0
+  birdEggs: number = 0
+  birdChildren: number = 0
+  pigChildren: number = 0
+  calfChildren: number = 0
+  bugEggs: number = 0
+  bugChildren: number = 0
+  skunkChildren: number = 0
+  minotaurChildren: number = 0
+  freakyGirlChildren: number = 0
+
+  // Inventory
+  bagPage: number = 1
+  bagArray: number[] = []
+  bagStackArray: number[] = []
+  stashArray: number[] = []
+  stashStackArray: number[] = []
+
+  // Mod values saved
+  breastSizeMod: number = 1
+  nippleSizeMod: number = 1
+  nipNarrowMod: number = 1.07
+  cockNarrowMod: number = 1.3
+  clitNarrowMod: number = 1.5
+  ballSizeMod: number = 1
+}

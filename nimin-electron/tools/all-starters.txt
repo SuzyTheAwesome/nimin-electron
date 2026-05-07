@@ -1,0 +1,1861 @@
+═══════════════════════════════════════════════════════════════════════
+  NIMIN — STARTER CHARACTER APPEARANCE DUMP
+  Generated: 2026-04-29T06:02:20.722Z
+  All possible (Race × Gender × Body) combos with both percent() branches.
+  "chance ≤ 50" branch uses Math.random=0.25 (percent=26)
+  "chance > 50" branch uses Math.random=0.75 (percent=76)
+═══════════════════════════════════════════════════════════════════════
+
+───────────────────────────────────────────────────────────────────────
+▼ Human • Male • Bodybuilder
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Human.
+
+6 feet and 0 inches tall, you wield unnoticeable hips and a tight butt on an overall musclebound figure. You look much like a male human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 36 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 average-sized wang. 1 dangles flaccidly from your groin, reaching 3 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Human.
+
+6 feet and 5 inches tall, you wield average hips and a firm butt on an overall musclebound figure. You look much like a male human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 38.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 hand-length wang. 1 dangles flaccidly from your groin, reaching 3 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Human • Male • Average
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Human.
+
+6 feet and 1 inches tall, you wield narrow hips and a tight butt on an overall manly figure. You look much like a male human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 36.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 average-sized wang. 1 dangles flaccidly from your groin, reaching 3 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Human.
+
+6 feet and 3 inches tall, you wield prepubescent hips and a firm butt on an overall manly figure. You look much like a male human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 hand-length wang. 1 dangles flaccidly from your groin, reaching 3 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Human • Male • Cunt-Boy
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Human.
+
+5 feet and 10 inches tall, you wield narrow hips and a tight butt on an overall cunt-boy figure. You look much like a male human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 35 inches around, sporting a flat belly beneath your shirt.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Human.
+
+6 feet and 3 inches tall, you wield prepubescent hips and a firm butt on an overall cunt-boy figure. You look much like a male human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Human • Male • Femme-Boy
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Human.
+
+5 feet and 2 inches tall, you wield unnoticeable hips and a ample butt on an overall femme-boyish figure. You look much like a male human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 31 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 1 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 average-sized wang. 1 dangles flaccidly from your groin, reaching 3 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Human.
+
+5 feet and 7 inches tall, you wield average hips and a grope-able butt on an overall femme-boyish figure. You look much like a male human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 33.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 1 inches in circumference beyond that of your chest, with thumb-sized nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 hand-length wang. 1 dangles flaccidly from your groin, reaching 3 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Human • Male • Childlike
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Human.
+
+3 feet and 8 inches tall, you wield narrow hips and a flat butt on an overall childish figure. You look much like a male human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 22 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 puny wang. 1 dangles flaccidly from your groin, reaching 1.5 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Human.
+
+4 feet and 1 inches tall, you wield prepubescent hips and a boney butt on an overall childish figure. You look much like a male human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 24.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 infantile wang. 1 dangles flaccidly from your groin, reaching 1.5 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Human • Female • Bodybuilder
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Human.
+
+5 feet and 10 inches tall, you wield unnoticeable hips and a tight butt on an overall musclebound figure. You look much like a female human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 35 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 2 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.4 inches beyond that.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Human.
+
+6 feet and 3 inches tall, you wield average hips and a firm butt on an overall musclebound figure. You look much like a female human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 2 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.4 inches beyond that.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Human • Female • Voluptuous
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Human.
+
+5 feet and 2 inches tall, you wield wide hips and a ample butt on an overall voluptuous figure. You look much like a female human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 31 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 bouncy breasts. Your bust measures 5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 1 inches beyond that.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Human.
+
+5 feet and 7 inches tall, you wield child-bearing hips and a grope-able butt on an overall voluptuous figure. You look much like a female human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 33.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 hand-filling breasts. Your bust measures 5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 1 inches beyond that.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Human • Female • Average
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Human.
+
+5 feet and 2 inches tall, you wield unnoticeable hips and a tight butt on an overall girly figure. You look much like a female human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 31 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 perky breasts. Your bust measures 3 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Human.
+
+5 feet and 7 inches tall, you wield average hips and a firm butt on an overall girly figure. You look much like a female human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 33.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 palmable breasts. Your bust measures 3 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Human • Female • Childlike
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Human.
+
+3 feet and 7 inches tall, you wield narrow hips and a flat butt on an overall childish figure. You look much like a female human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 21.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 bouncy breasts. Your bust measures 1 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Also, between your legs nestles 1 tiny pair of feminine nether-lips, about 3 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Human.
+
+4 feet and 0 inches tall, you wield prepubescent hips and a boney butt on an overall childish figure. You look much like a female human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 24 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 palmable breasts. Your bust measures 1 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Also, between your legs nestles 1 childlike pair of feminine nether-lips, about 3 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Human • Herm • Bodybuilder
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Human.
+
+5 feet and 10 inches tall, you wield unnoticeable hips and a tight butt on an overall musclebound figure. You look much like a herm human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 35 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 nearly flat breasts. Your bust measures 2.5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 puny wang. 1 dangles flaccidly from your groin, reaching 2 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 puny testicles.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Human.
+
+6 feet and 3 inches tall, you wield average hips and a firm butt on an overall musclebound figure. You look much like a herm human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 2.5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 infantile wang. 1 dangles flaccidly from your groin, reaching 2 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 hard-to-find testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Human • Herm • Masculine
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Human.
+
+5 feet and 4 inches tall, you wield narrow hips and a tight butt on an overall masculine figure. You look much like a herm human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 32 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 1 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 puny wang. 1 dangles flaccidly from your groin, reaching 2 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 puny testicles.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Human.
+
+5 feet and 9 inches tall, you wield prepubescent hips and a firm butt on an overall masculine figure. You look much like a herm human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 34.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 1 inches in circumference beyond that of your chest, with thumb-sized nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 infantile wang. 1 dangles flaccidly from your groin, reaching 2 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 hard-to-find testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Human • Herm • Feminine
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Human.
+
+5 feet and 0 inches tall, you wield unnoticeable hips and a tight butt on an overall feminine figure. You look much like a herm human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 30 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 perky breasts. Your bust measures 3 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 puny wang. 1 dangles flaccidly from your groin, reaching 2 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Human.
+
+5 feet and 5 inches tall, you wield average hips and a firm butt on an overall feminine figure. You look much like a herm human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 32.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 palmable breasts. Your bust measures 3 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 infantile wang. 1 dangles flaccidly from your groin, reaching 2 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 hard-to-find testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Human • Herm • Childlike
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Human.
+
+3 feet and 8 inches tall, you wield narrow hips and a flat butt on an overall childish figure. You look much like a herm human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 22 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 nearly flat breasts. Your bust measures 0.5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.1 inches beyond that.
+
+Above your groin rests 1 puny wang. 1 dangles flaccidly from your groin, reaching 1 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+Also, between your legs nestles 1 tiny pair of feminine nether-lips, about 2 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Human.
+
+4 feet and 1 inches tall, you wield prepubescent hips and a boney butt on an overall childish figure. You look much like a herm human, your face round with a moderate-sized nose. Hugging the sides of your head, you have small rounded ears that can easily be hidden by your hair, like that of a human's.
+
+You are currently wearing a shirt and pants that cover your skin while you defend yourself unarmed. Your waist measures 24.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 tiny breasts. Your bust measures 0.5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.1 inches beyond that.
+
+Above your groin rests 1 infantile wang. 1 dangles flaccidly from your groin, reaching 1 inches down, with smooth skin and a mushroom-like glans, just like a human's.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 2 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Equan • Male • Bodybuilder
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Equan.
+
+6 feet and 0 inches tall, you wield unnoticeable hips and a tight butt on an overall musclebound figure. You look much like a male horse, your face slightly longer than normal with large confident eyes, and a bristly tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 36 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 big wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 2 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Equan.
+
+6 feet and 5 inches tall, you wield average hips and a firm butt on an overall musclebound figure. You look much like a male horse, your face slightly longer than normal with large confident eyes, and a equine tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 38.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 larger than normal wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 2 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Equan • Male • Average
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Equan.
+
+6 feet and 1 inches tall, you wield narrow hips and a tight butt on an overall manly figure. You look much like a male horse, your face slightly longer than normal with large confident eyes, and a bristly tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 36.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 big wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 2 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Equan.
+
+6 feet and 3 inches tall, you wield prepubescent hips and a firm butt on an overall manly figure. You look much like a male horse, your face slightly longer than normal with large confident eyes, and a equine tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 larger than normal wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 2 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Equan • Male • Cunt-Boy
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Equan.
+
+5 feet and 10 inches tall, you wield narrow hips and a tight butt on an overall cunt-boy figure. You look much like a male horse, your face slightly longer than normal with large confident eyes, and a bristly tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 35 inches around, sporting a flat belly beneath your shirt.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 8 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Equan.
+
+6 feet and 3 inches tall, you wield prepubescent hips and a firm butt on an overall cunt-boy figure. You look much like a male horse, your face slightly longer than normal with large confident eyes, and a equine tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 8 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Equan • Male • Femme-Boy
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Equan.
+
+5 feet and 2 inches tall, you wield unnoticeable hips and a ample butt on an overall femme-boyish figure. You look much like a male horse, your face slightly longer than normal with large confident eyes, and a bristly tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 31 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 1 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 big wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 2 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Equan.
+
+5 feet and 7 inches tall, you wield average hips and a grope-able butt on an overall femme-boyish figure. You look much like a male horse, your face slightly longer than normal with large confident eyes, and a equine tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 33.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 1 inches in circumference beyond that of your chest, with thumb-sized nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 larger than normal wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 2 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Equan • Male • Childlike
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Equan.
+
+3 feet and 8 inches tall, you wield narrow hips and a flat butt on an overall childish figure. You look much like a male horse, your face slightly longer than normal with large confident eyes, and a bristly tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 22 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 average-sized wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 1 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Equan.
+
+4 feet and 1 inches tall, you wield prepubescent hips and a boney butt on an overall childish figure. You look much like a male horse, your face slightly longer than normal with large confident eyes, and a equine tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 24.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 hand-length wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 1 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Equan • Female • Bodybuilder
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Equan.
+
+5 feet and 10 inches tall, you wield unnoticeable hips and a tight butt on an overall musclebound figure. You look much like a female horse, your face slightly longer than normal with large confident eyes, and a bristly tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 35 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 2 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.4 inches beyond that.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 12 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Equan.
+
+6 feet and 3 inches tall, you wield average hips and a firm butt on an overall musclebound figure. You look much like a female horse, your face slightly longer than normal with large confident eyes, and a equine tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 2 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.4 inches beyond that.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 12 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Equan • Female • Voluptuous
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Equan.
+
+5 feet and 2 inches tall, you wield wide hips and a ample butt on an overall voluptuous figure. You look much like a female horse, your face slightly longer than normal with large confident eyes, and a bristly tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 31 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 bouncy breasts. Your bust measures 5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 1 inches beyond that.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 12 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Equan.
+
+5 feet and 7 inches tall, you wield child-bearing hips and a grope-able butt on an overall voluptuous figure. You look much like a female horse, your face slightly longer than normal with large confident eyes, and a equine tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 33.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 hand-filling breasts. Your bust measures 5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 1 inches beyond that.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 12 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Equan • Female • Average
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Equan.
+
+5 feet and 2 inches tall, you wield unnoticeable hips and a tight butt on an overall girly figure. You look much like a female horse, your face slightly longer than normal with large confident eyes, and a bristly tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 31 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 perky breasts. Your bust measures 3 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 12 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Equan.
+
+5 feet and 7 inches tall, you wield average hips and a firm butt on an overall girly figure. You look much like a female horse, your face slightly longer than normal with large confident eyes, and a equine tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 33.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 palmable breasts. Your bust measures 3 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 12 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Equan • Female • Childlike
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Equan.
+
+3 feet and 7 inches tall, you wield narrow hips and a flat butt on an overall childish figure. You look much like a female horse, your face slightly longer than normal with large confident eyes, and a bristly tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 21.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 bouncy breasts. Your bust measures 1 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Also, between your legs nestles 1 tiny pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Equan.
+
+4 feet and 0 inches tall, you wield prepubescent hips and a boney butt on an overall childish figure. You look much like a female horse, your face slightly longer than normal with large confident eyes, and a equine tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 24 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 palmable breasts. Your bust measures 1 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Also, between your legs nestles 1 childlike pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Equan • Herm • Bodybuilder
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Equan.
+
+5 feet and 10 inches tall, you wield unnoticeable hips and a tight butt on an overall musclebound figure. You look much like a herm horse, your face slightly longer than normal with large confident eyes, and a bristly tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 35 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 nearly flat breasts. Your bust measures 2.5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 big wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 1.3 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 puny testicles.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 8 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Equan.
+
+6 feet and 3 inches tall, you wield average hips and a firm butt on an overall musclebound figure. You look much like a herm horse, your face slightly longer than normal with large confident eyes, and a equine tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 2.5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 larger than normal wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 1.3 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 hard-to-find testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 8 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Equan • Herm • Masculine
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Equan.
+
+5 feet and 4 inches tall, you wield narrow hips and a tight butt on an overall masculine figure. You look much like a herm horse, your face slightly longer than normal with large confident eyes, and a bristly tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 32 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 1 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 big wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 1.3 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 puny testicles.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 8 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Equan.
+
+5 feet and 9 inches tall, you wield prepubescent hips and a firm butt on an overall masculine figure. You look much like a herm horse, your face slightly longer than normal with large confident eyes, and a equine tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 34.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 1 inches in circumference beyond that of your chest, with thumb-sized nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 larger than normal wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 1.3 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 hard-to-find testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 8 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Equan • Herm • Feminine
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Equan.
+
+5 feet and 0 inches tall, you wield unnoticeable hips and a tight butt on an overall feminine figure. You look much like a herm horse, your face slightly longer than normal with large confident eyes, and a bristly tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 30 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 perky breasts. Your bust measures 3 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 big wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 1.3 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 8 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Equan.
+
+5 feet and 5 inches tall, you wield average hips and a firm butt on an overall feminine figure. You look much like a herm horse, your face slightly longer than normal with large confident eyes, and a equine tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 32.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 palmable breasts. Your bust measures 3 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 larger than normal wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 1.3 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 hard-to-find testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 8 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Equan • Herm • Childlike
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Equan.
+
+3 feet and 8 inches tall, you wield narrow hips and a flat butt on an overall childish figure. You look much like a herm horse, your face slightly longer than normal with large confident eyes, and a bristly tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 22 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 nearly flat breasts. Your bust measures 0.5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.1 inches beyond that.
+
+Above your groin rests 1 puny wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.6 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+Also, between your legs nestles 1 tiny pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Equan.
+
+4 feet and 1 inches tall, you wield prepubescent hips and a boney butt on an overall childish figure. You look much like a herm horse, your face slightly longer than normal with large confident eyes, and a equine tail swishing upon your backside. Atop your head, you have large tear-drop shaped ears that flick every now and then, able to hear quite well, like that of a horse's.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 24.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 tiny breasts. Your bust measures 0.5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.1 inches beyond that.
+
+Above your groin rests 1 infantile wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.6 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lupan • Male • Bodybuilder
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lupan.
+
+6 feet and 0 inches tall, you wield unnoticeable hips and a tight butt on an overall musclebound figure. You look much like a male wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a fluffy tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 36 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 average-sized wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.7 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Lupan.
+
+6 feet and 5 inches tall, you wield average hips and a firm butt on an overall musclebound figure. You look much like a male wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a wolfish tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 38.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 hand-length wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.7 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lupan • Male • Average
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lupan.
+
+6 feet and 1 inches tall, you wield narrow hips and a tight butt on an overall manly figure. You look much like a male wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a fluffy tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 36.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 average-sized wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.7 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Lupan.
+
+6 feet and 3 inches tall, you wield prepubescent hips and a firm butt on an overall manly figure. You look much like a male wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a wolfish tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 hand-length wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.7 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lupan • Male • Cunt-Boy
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lupan.
+
+5 feet and 10 inches tall, you wield narrow hips and a tight butt on an overall cunt-boy figure. You look much like a male wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a fluffy tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 35 inches around, sporting a flat belly beneath your shirt.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lupan.
+
+6 feet and 3 inches tall, you wield prepubescent hips and a firm butt on an overall cunt-boy figure. You look much like a male wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a wolfish tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lupan • Male • Femme-Boy
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lupan.
+
+5 feet and 2 inches tall, you wield unnoticeable hips and a ample butt on an overall femme-boyish figure. You look much like a male wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a fluffy tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 31 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 flat breasts; three pairs diminishing in size the lower they go. Your bust measures 1 inches in circumference beyond that of your chest, the next pair measuring 0.5 inches and the next measuring 0.3 inches; each with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 average-sized wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.7 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Lupan.
+
+5 feet and 7 inches tall, you wield average hips and a grope-able butt on an overall femme-boyish figure. You look much like a male wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a wolfish tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 33.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 flat breasts; three pairs diminishing in size the lower they go. Your bust measures 1 inches in circumference beyond that of your chest, the next pair measuring 0.5 inches and the next measuring 0.3 inches; each with thumb-sized nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 hand-length wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.7 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lupan • Male • Childlike
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lupan.
+
+3 feet and 8 inches tall, you wield narrow hips and a flat butt on an overall childish figure. You look much like a male wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a fluffy tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 22 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 puny wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.3 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Lupan.
+
+4 feet and 1 inches tall, you wield prepubescent hips and a boney butt on an overall childish figure. You look much like a male wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a wolfish tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 24.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 infantile wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.3 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lupan • Female • Bodybuilder
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lupan.
+
+5 feet and 10 inches tall, you wield unnoticeable hips and a tight butt on an overall musclebound figure. You look much like a female wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a fluffy tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 35 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 flat breasts; three pairs diminishing in size the lower they go. Your bust measures 2 inches in circumference beyond that of your chest, the next pair measuring 1 inches and the next measuring 0.6 inches; each with grabbable nipples softly bulging 0.4 inches beyond that.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lupan.
+
+6 feet and 3 inches tall, you wield average hips and a firm butt on an overall musclebound figure. You look much like a female wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a wolfish tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 flat breasts; three pairs diminishing in size the lower they go. Your bust measures 2 inches in circumference beyond that of your chest, the next pair measuring 1 inches and the next measuring 0.6 inches; each with grabbable nipples softly bulging 0.4 inches beyond that.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lupan • Female • Voluptuous
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lupan.
+
+5 feet and 2 inches tall, you wield wide hips and a ample butt on an overall voluptuous figure. You look much like a female wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a fluffy tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 31 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 bouncy breasts; three pairs diminishing in size the lower they go. Your bust measures 5 inches in circumference beyond that of your chest, the next pair measuring 2.5 inches and the next measuring 1.5 inches; each with grabbable nipples softly bulging 1 inches beyond that.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lupan.
+
+5 feet and 7 inches tall, you wield child-bearing hips and a grope-able butt on an overall voluptuous figure. You look much like a female wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a wolfish tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 33.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 hand-filling breasts; three pairs diminishing in size the lower they go. Your bust measures 5 inches in circumference beyond that of your chest, the next pair measuring 2.5 inches and the next measuring 1.5 inches; each with grabbable nipples softly bulging 1 inches beyond that.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lupan • Female • Average
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lupan.
+
+5 feet and 2 inches tall, you wield unnoticeable hips and a tight butt on an overall girly figure. You look much like a female wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a fluffy tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 31 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 perky breasts; three pairs diminishing in size the lower they go. Your bust measures 3 inches in circumference beyond that of your chest, the next pair measuring 1.5 inches and the next measuring 0.89 inches; each with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lupan.
+
+5 feet and 7 inches tall, you wield average hips and a firm butt on an overall girly figure. You look much like a female wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a wolfish tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 33.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 palmable breasts; three pairs diminishing in size the lower they go. Your bust measures 3 inches in circumference beyond that of your chest, the next pair measuring 1.5 inches and the next measuring 0.89 inches; each with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lupan • Female • Childlike
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lupan.
+
+3 feet and 7 inches tall, you wield narrow hips and a flat butt on an overall childish figure. You look much like a female wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a fluffy tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 21.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 bouncy breasts; three pairs diminishing in size the lower they go. Your bust measures 1 inches in circumference beyond that of your chest, the next pair measuring 0.5 inches and the next measuring 0.3 inches; each with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Also, between your legs nestles 1 tiny pair of feminine nether-lips, about 3 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lupan.
+
+4 feet and 0 inches tall, you wield prepubescent hips and a boney butt on an overall childish figure. You look much like a female wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a wolfish tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 24 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 palmable breasts; three pairs diminishing in size the lower they go. Your bust measures 1 inches in circumference beyond that of your chest, the next pair measuring 0.5 inches and the next measuring 0.3 inches; each with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Also, between your legs nestles 1 childlike pair of feminine nether-lips, about 3 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lupan • Herm • Bodybuilder
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lupan.
+
+5 feet and 10 inches tall, you wield unnoticeable hips and a tight butt on an overall musclebound figure. You look much like a herm wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a fluffy tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 35 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 nearly flat breasts; three pairs diminishing in size the lower they go. Your bust measures 2.5 inches in circumference beyond that of your chest, the next pair measuring 1.25 inches and the next measuring 0.75 inches; each with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 puny wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.5 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 puny testicles.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lupan.
+
+6 feet and 3 inches tall, you wield average hips and a firm butt on an overall musclebound figure. You look much like a herm wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a wolfish tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 flat breasts; three pairs diminishing in size the lower they go. Your bust measures 2.5 inches in circumference beyond that of your chest, the next pair measuring 1.25 inches and the next measuring 0.75 inches; each with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 infantile wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.5 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 hard-to-find testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lupan • Herm • Masculine
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lupan.
+
+5 feet and 4 inches tall, you wield narrow hips and a tight butt on an overall masculine figure. You look much like a herm wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a fluffy tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 32 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 flat breasts; three pairs diminishing in size the lower they go. Your bust measures 1 inches in circumference beyond that of your chest, the next pair measuring 0.5 inches and the next measuring 0.3 inches; each with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 puny wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.5 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 puny testicles.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lupan.
+
+5 feet and 9 inches tall, you wield prepubescent hips and a firm butt on an overall masculine figure. You look much like a herm wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a wolfish tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 34.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 flat breasts; three pairs diminishing in size the lower they go. Your bust measures 1 inches in circumference beyond that of your chest, the next pair measuring 0.5 inches and the next measuring 0.3 inches; each with thumb-sized nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 infantile wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.5 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 hard-to-find testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lupan • Herm • Feminine
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lupan.
+
+5 feet and 0 inches tall, you wield unnoticeable hips and a tight butt on an overall feminine figure. You look much like a herm wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a fluffy tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 30 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 perky breasts; three pairs diminishing in size the lower they go. Your bust measures 3 inches in circumference beyond that of your chest, the next pair measuring 1.5 inches and the next measuring 0.89 inches; each with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 puny wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.5 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lupan.
+
+5 feet and 5 inches tall, you wield average hips and a firm butt on an overall feminine figure. You look much like a herm wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a wolfish tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 32.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 palmable breasts; three pairs diminishing in size the lower they go. Your bust measures 3 inches in circumference beyond that of your chest, the next pair measuring 1.5 inches and the next measuring 0.89 inches; each with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 infantile wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.5 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 hard-to-find testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lupan • Herm • Childlike
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lupan.
+
+3 feet and 8 inches tall, you wield narrow hips and a flat butt on an overall childish figure. You look much like a herm wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a fluffy tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 22 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 nearly flat breasts; three pairs diminishing in size the lower they go. Your bust measures 0.5 inches in circumference beyond that of your chest, the next pair measuring 0.25 inches and the next measuring 0.15 inches; each with grabbable nipples softly bulging 0.1 inches beyond that.
+
+Above your groin rests 1 puny wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.2 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+Also, between your legs nestles 1 tiny pair of feminine nether-lips, about 2 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lupan.
+
+4 feet and 1 inches tall, you wield prepubescent hips and a boney butt on an overall childish figure. You look much like a herm wolf, your face looking slightly fierce with sharp teeth and focused eyes, and a wolfish tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a wolf's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 24.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 tiny breasts; three pairs diminishing in size the lower they go. Your bust measures 0.5 inches in circumference beyond that of your chest, the next pair measuring 0.25 inches and the next measuring 0.15 inches; each with grabbable nipples softly bulging 0.1 inches beyond that.
+
+Above your groin rests 1 infantile wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.2 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 2 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Felin • Male • Bodybuilder
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Felin.
+
+6 feet and 0 inches tall, you wield unnoticeable hips and a tight butt on an overall musclebound figure. You look much like a male cat, your face somewhat flat with a small button nose, and a lithe tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 36 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 average-sized wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.7 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Felin.
+
+6 feet and 5 inches tall, you wield average hips and a firm butt on an overall musclebound figure. You look much like a male cat, your face somewhat flat with a small button nose, and a cat-like tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 38.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 hand-length wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.7 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Felin • Male • Average
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Felin.
+
+6 feet and 1 inches tall, you wield narrow hips and a tight butt on an overall manly figure. You look much like a male cat, your face somewhat flat with a small button nose, and a lithe tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 36.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 average-sized wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.7 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Felin.
+
+6 feet and 3 inches tall, you wield prepubescent hips and a firm butt on an overall manly figure. You look much like a male cat, your face somewhat flat with a small button nose, and a cat-like tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 hand-length wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.7 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Felin • Male • Cunt-Boy
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Felin.
+
+5 feet and 10 inches tall, you wield narrow hips and a tight butt on an overall cunt-boy figure. You look much like a male cat, your face somewhat flat with a small button nose, and a lithe tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 35 inches around, sporting a flat belly beneath your shirt.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Felin.
+
+6 feet and 3 inches tall, you wield prepubescent hips and a firm butt on an overall cunt-boy figure. You look much like a male cat, your face somewhat flat with a small button nose, and a cat-like tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Felin • Male • Femme-Boy
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Felin.
+
+5 feet and 2 inches tall, you wield unnoticeable hips and a ample butt on an overall femme-boyish figure. You look much like a male cat, your face somewhat flat with a small button nose, and a lithe tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 31 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 flat breasts; three pairs diminishing in size the lower they go. Your bust measures 1 inches in circumference beyond that of your chest, the next pair measuring 0.5 inches and the next measuring 0.3 inches; each with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 average-sized wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.7 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Felin.
+
+5 feet and 7 inches tall, you wield average hips and a grope-able butt on an overall femme-boyish figure. You look much like a male cat, your face somewhat flat with a small button nose, and a cat-like tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 33.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 flat breasts; three pairs diminishing in size the lower they go. Your bust measures 1 inches in circumference beyond that of your chest, the next pair measuring 0.5 inches and the next measuring 0.3 inches; each with thumb-sized nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 hand-length wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.7 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Felin • Male • Childlike
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Felin.
+
+3 feet and 8 inches tall, you wield narrow hips and a flat butt on an overall childish figure. You look much like a male cat, your face somewhat flat with a small button nose, and a lithe tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 22 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 puny wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.3 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Felin.
+
+4 feet and 1 inches tall, you wield prepubescent hips and a boney butt on an overall childish figure. You look much like a male cat, your face somewhat flat with a small button nose, and a cat-like tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 24.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 1 infantile wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.3 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Felin • Female • Bodybuilder
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Felin.
+
+5 feet and 10 inches tall, you wield unnoticeable hips and a tight butt on an overall musclebound figure. You look much like a female cat, your face somewhat flat with a small button nose, and a lithe tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 35 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 flat breasts; three pairs diminishing in size the lower they go. Your bust measures 2 inches in circumference beyond that of your chest, the next pair measuring 1 inches and the next measuring 0.6 inches; each with grabbable nipples softly bulging 0.4 inches beyond that.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Felin.
+
+6 feet and 3 inches tall, you wield average hips and a firm butt on an overall musclebound figure. You look much like a female cat, your face somewhat flat with a small button nose, and a cat-like tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 flat breasts; three pairs diminishing in size the lower they go. Your bust measures 2 inches in circumference beyond that of your chest, the next pair measuring 1 inches and the next measuring 0.6 inches; each with grabbable nipples softly bulging 0.4 inches beyond that.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Felin • Female • Voluptuous
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Felin.
+
+5 feet and 2 inches tall, you wield wide hips and a ample butt on an overall voluptuous figure. You look much like a female cat, your face somewhat flat with a small button nose, and a lithe tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 31 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 bouncy breasts; three pairs diminishing in size the lower they go. Your bust measures 5 inches in circumference beyond that of your chest, the next pair measuring 2.5 inches and the next measuring 1.5 inches; each with grabbable nipples softly bulging 1 inches beyond that.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Felin.
+
+5 feet and 7 inches tall, you wield child-bearing hips and a grope-able butt on an overall voluptuous figure. You look much like a female cat, your face somewhat flat with a small button nose, and a cat-like tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 33.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 hand-filling breasts; three pairs diminishing in size the lower they go. Your bust measures 5 inches in circumference beyond that of your chest, the next pair measuring 2.5 inches and the next measuring 1.5 inches; each with grabbable nipples softly bulging 1 inches beyond that.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Felin • Female • Average
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Felin.
+
+5 feet and 2 inches tall, you wield unnoticeable hips and a tight butt on an overall girly figure. You look much like a female cat, your face somewhat flat with a small button nose, and a lithe tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 31 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 perky breasts; three pairs diminishing in size the lower they go. Your bust measures 3 inches in circumference beyond that of your chest, the next pair measuring 1.5 inches and the next measuring 0.89 inches; each with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Felin.
+
+5 feet and 7 inches tall, you wield average hips and a firm butt on an overall girly figure. You look much like a female cat, your face somewhat flat with a small button nose, and a cat-like tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 33.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 palmable breasts; three pairs diminishing in size the lower they go. Your bust measures 3 inches in circumference beyond that of your chest, the next pair measuring 1.5 inches and the next measuring 0.89 inches; each with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Felin • Female • Childlike
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Felin.
+
+3 feet and 7 inches tall, you wield narrow hips and a flat butt on an overall childish figure. You look much like a female cat, your face somewhat flat with a small button nose, and a lithe tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 21.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 bouncy breasts; three pairs diminishing in size the lower they go. Your bust measures 1 inches in circumference beyond that of your chest, the next pair measuring 0.5 inches and the next measuring 0.3 inches; each with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Also, between your legs nestles 1 tiny pair of feminine nether-lips, about 3 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Felin.
+
+4 feet and 0 inches tall, you wield prepubescent hips and a boney butt on an overall childish figure. You look much like a female cat, your face somewhat flat with a small button nose, and a cat-like tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 24 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 palmable breasts; three pairs diminishing in size the lower they go. Your bust measures 1 inches in circumference beyond that of your chest, the next pair measuring 0.5 inches and the next measuring 0.3 inches; each with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Also, between your legs nestles 1 childlike pair of feminine nether-lips, about 3 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Felin • Herm • Bodybuilder
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Felin.
+
+5 feet and 10 inches tall, you wield unnoticeable hips and a tight butt on an overall musclebound figure. You look much like a herm cat, your face somewhat flat with a small button nose, and a lithe tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 35 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 nearly flat breasts; three pairs diminishing in size the lower they go. Your bust measures 2.5 inches in circumference beyond that of your chest, the next pair measuring 1.25 inches and the next measuring 0.75 inches; each with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 puny wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.5 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 puny testicles.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Felin.
+
+6 feet and 3 inches tall, you wield average hips and a firm butt on an overall musclebound figure. You look much like a herm cat, your face somewhat flat with a small button nose, and a cat-like tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 flat breasts; three pairs diminishing in size the lower they go. Your bust measures 2.5 inches in circumference beyond that of your chest, the next pair measuring 1.25 inches and the next measuring 0.75 inches; each with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 infantile wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.5 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 hard-to-find testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Felin • Herm • Masculine
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Felin.
+
+5 feet and 4 inches tall, you wield narrow hips and a tight butt on an overall masculine figure. You look much like a herm cat, your face somewhat flat with a small button nose, and a lithe tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 32 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 flat breasts; three pairs diminishing in size the lower they go. Your bust measures 1 inches in circumference beyond that of your chest, the next pair measuring 0.5 inches and the next measuring 0.3 inches; each with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 puny wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.5 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 puny testicles.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Felin.
+
+5 feet and 9 inches tall, you wield prepubescent hips and a firm butt on an overall masculine figure. You look much like a herm cat, your face somewhat flat with a small button nose, and a cat-like tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 34.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 flat breasts; three pairs diminishing in size the lower they go. Your bust measures 1 inches in circumference beyond that of your chest, the next pair measuring 0.5 inches and the next measuring 0.3 inches; each with thumb-sized nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 1 infantile wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.5 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 hard-to-find testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Felin • Herm • Feminine
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Felin.
+
+5 feet and 0 inches tall, you wield unnoticeable hips and a tight butt on an overall feminine figure. You look much like a herm cat, your face somewhat flat with a small button nose, and a lithe tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 30 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 perky breasts; three pairs diminishing in size the lower they go. Your bust measures 3 inches in circumference beyond that of your chest, the next pair measuring 1.5 inches and the next measuring 0.89 inches; each with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 puny wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.5 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Felin.
+
+5 feet and 5 inches tall, you wield average hips and a firm butt on an overall feminine figure. You look much like a herm cat, your face somewhat flat with a small button nose, and a cat-like tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 32.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 palmable breasts; three pairs diminishing in size the lower they go. Your bust measures 3 inches in circumference beyond that of your chest, the next pair measuring 1.5 inches and the next measuring 0.89 inches; each with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 1 infantile wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.5 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 hard-to-find testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Felin • Herm • Childlike
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Felin.
+
+3 feet and 8 inches tall, you wield narrow hips and a flat butt on an overall childish figure. You look much like a herm cat, your face somewhat flat with a small button nose, and a lithe tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 22 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 nearly flat breasts; three pairs diminishing in size the lower they go. Your bust measures 0.5 inches in circumference beyond that of your chest, the next pair measuring 0.25 inches and the next measuring 0.15 inches; each with grabbable nipples softly bulging 0.1 inches beyond that.
+
+Above your groin rests 1 puny wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.2 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-sized testicles.
+
+Also, between your legs nestles 1 tiny pair of feminine nether-lips, about 2 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Felin.
+
+4 feet and 1 inches tall, you wield prepubescent hips and a boney butt on an overall childish figure. You look much like a herm cat, your face somewhat flat with a small button nose, and a cat-like tail swishing upon your backside. Atop your head, you have small triangular ears that stand perk, like that of a cat's. Your ankles elongated and lithe, the front of your feet are large wide paws that help balance you as you walk digitigrade, your steps nothing but a soft and gentle patter against the ground.
+
+You are currently wearing a shirt and pants that cover your fur while you defend yourself unarmed. Your waist measures 24.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest and down to your belly heaves 6 tiny breasts; three pairs diminishing in size the lower they go. Your bust measures 0.5 inches in circumference beyond that of your chest, the next pair measuring 0.25 inches and the next measuring 0.15 inches; each with grabbable nipples softly bulging 0.1 inches beyond that.
+
+Above your groin rests 1 infantile wang. 1 hides within a fuzzy sheath that protrudes from your groin, around 0.2 inches in thickness.
+
+Beneath your cock swings a scrotum filled with 2 golfball-like testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 2 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lizan • Male • Bodybuilder
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lizan.
+
+6 feet and 0 inches tall, you wield unnoticeable hips and a tight butt on an overall musclebound figure. You look much like a male lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a thick, sleek tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 36 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 2 average-sized wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Lizan.
+
+6 feet and 5 inches tall, you wield average hips and a firm butt on an overall musclebound figure. You look much like a male lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a reptillian tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 38.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 2 hand-length wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lizan • Male • Average
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lizan.
+
+6 feet and 1 inches tall, you wield narrow hips and a tight butt on an overall manly figure. You look much like a male lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a thick, sleek tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 36.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 2 average-sized wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Lizan.
+
+6 feet and 3 inches tall, you wield prepubescent hips and a firm butt on an overall manly figure. You look much like a male lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a reptillian tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 2 hand-length wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lizan • Male • Cunt-Boy
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lizan.
+
+5 feet and 10 inches tall, you wield narrow hips and a tight butt on an overall cunt-boy figure. You look much like a male lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a thick, sleek tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 35 inches around, sporting a flat belly beneath your shirt.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lizan.
+
+6 feet and 3 inches tall, you wield prepubescent hips and a firm butt on an overall cunt-boy figure. You look much like a male lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a reptillian tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lizan • Male • Femme-Boy
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lizan.
+
+5 feet and 2 inches tall, you wield unnoticeable hips and a ample butt on an overall femme-boyish figure. You look much like a male lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a thick, sleek tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 31 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 1 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 2 average-sized wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Lizan.
+
+5 feet and 7 inches tall, you wield average hips and a grope-able butt on an overall femme-boyish figure. You look much like a male lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a reptillian tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 33.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 1 inches in circumference beyond that of your chest, with thumb-sized nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 2 hand-length wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lizan • Male • Childlike
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lizan.
+
+3 feet and 8 inches tall, you wield narrow hips and a flat butt on an overall childish figure. You look much like a male lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a thick, sleek tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 22 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 2 puny wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 golfball-sized testicles.
+
+[chance > 50 branch]
+You began your journey as a Lizan.
+
+4 feet and 1 inches tall, you wield prepubescent hips and a boney butt on an overall childish figure. You look much like a male lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a reptillian tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 24.5 inches around, sporting a flat belly beneath your shirt.
+
+Above your groin rests 2 infantile wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 golfball-like testicles.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lizan • Female • Bodybuilder
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lizan.
+
+5 feet and 10 inches tall, you wield unnoticeable hips and a tight butt on an overall musclebound figure. You look much like a female lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a thick, sleek tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 35 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 2 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.4 inches beyond that.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lizan.
+
+6 feet and 3 inches tall, you wield average hips and a firm butt on an overall musclebound figure. You look much like a female lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a reptillian tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 2 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.4 inches beyond that.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lizan • Female • Voluptuous
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lizan.
+
+5 feet and 2 inches tall, you wield wide hips and a ample butt on an overall voluptuous figure. You look much like a female lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a thick, sleek tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 31 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 bouncy breasts. Your bust measures 5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 1 inches beyond that.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lizan.
+
+5 feet and 7 inches tall, you wield child-bearing hips and a grope-able butt on an overall voluptuous figure. You look much like a female lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a reptillian tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 33.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 hand-filling breasts. Your bust measures 5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 1 inches beyond that.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lizan • Female • Average
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lizan.
+
+5 feet and 2 inches tall, you wield unnoticeable hips and a tight butt on an overall girly figure. You look much like a female lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a thick, sleek tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 31 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 perky breasts. Your bust measures 3 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lizan.
+
+5 feet and 7 inches tall, you wield average hips and a firm butt on an overall girly figure. You look much like a female lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a reptillian tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 33.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 palmable breasts. Your bust measures 3 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 6 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lizan • Female • Childlike
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lizan.
+
+3 feet and 7 inches tall, you wield narrow hips and a flat butt on an overall childish figure. You look much like a female lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a thick, sleek tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 21.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 bouncy breasts. Your bust measures 1 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Also, between your legs nestles 1 tiny pair of feminine nether-lips, about 3 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lizan.
+
+4 feet and 0 inches tall, you wield prepubescent hips and a boney butt on an overall childish figure. You look much like a female lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a reptillian tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 24 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 palmable breasts. Your bust measures 1 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Also, between your legs nestles 1 childlike pair of feminine nether-lips, about 3 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lizan • Herm • Bodybuilder
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lizan.
+
+5 feet and 10 inches tall, you wield unnoticeable hips and a tight butt on an overall musclebound figure. You look much like a herm lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a thick, sleek tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 35 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 nearly flat breasts. Your bust measures 2.5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 2 puny wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 puny testicles.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lizan.
+
+6 feet and 3 inches tall, you wield average hips and a firm butt on an overall musclebound figure. You look much like a herm lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a reptillian tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 37.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 2.5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 2 infantile wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 hard-to-find testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lizan • Herm • Masculine
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lizan.
+
+5 feet and 4 inches tall, you wield narrow hips and a tight butt on an overall masculine figure. You look much like a herm lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a thick, sleek tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 32 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 1 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 2 puny wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 puny testicles.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lizan.
+
+5 feet and 9 inches tall, you wield prepubescent hips and a firm butt on an overall masculine figure. You look much like a herm lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a reptillian tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 34.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 flat breasts. Your bust measures 1 inches in circumference beyond that of your chest, with thumb-sized nipples softly bulging 0.2 inches beyond that.
+
+Above your groin rests 2 infantile wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 hard-to-find testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lizan • Herm • Feminine
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lizan.
+
+5 feet and 0 inches tall, you wield unnoticeable hips and a tight butt on an overall feminine figure. You look much like a herm lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a thick, sleek tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 30 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 perky breasts. Your bust measures 3 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 2 puny wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 golfball-sized testicles.
+
+Also, between your legs nestles 1 plush pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lizan.
+
+5 feet and 5 inches tall, you wield average hips and a firm butt on an overall feminine figure. You look much like a herm lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a reptillian tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 32.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 palmable breasts. Your bust measures 3 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.6 inches beyond that.
+
+Above your groin rests 2 infantile wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 hard-to-find testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 4 inches deep, when aroused.
+
+───────────────────────────────────────────────────────────────────────
+▼ Lizan • Herm • Childlike
+───────────────────────────────────────────────────────────────────────
+
+[chance ≤ 50 branch]
+You began your journey as a Lizan.
+
+3 feet and 8 inches tall, you wield narrow hips and a flat butt on an overall childish figure. You look much like a herm lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a thick, sleek tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 22 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 nearly flat breasts. Your bust measures 0.5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.1 inches beyond that.
+
+Above your groin rests 2 puny wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 golfball-sized testicles.
+
+Also, between your legs nestles 1 tiny pair of feminine nether-lips, about 2 inches deep, when aroused.
+
+[chance > 50 branch]
+You began your journey as a Lizan.
+
+4 feet and 1 inches tall, you wield prepubescent hips and a boney butt on an overall childish figure. You look much like a herm lizard, your face somewhat flat with a nose that is mostly a slight bump with two slits for nostrils, and a reptillian tail swishing upon your backside. On the sides of your head, you have sleek holes for ears, like many lizards have.
+
+You are currently wearing a shirt and pants that cover your scales while you defend yourself unarmed. Your waist measures 24.5 inches around, sporting a flat belly beneath your shirt.
+
+Upon your chest heaves 2 tiny breasts. Your bust measures 0.5 inches in circumference beyond that of your chest, with grabbable nipples softly bulging 0.1 inches beyond that.
+
+Above your groin rests 2 infantile wangs. 2 hide in a slit, flush against your body.
+
+Beneath your cocks swing a scrotum filled with 2 golfball-like testicles.
+
+Also, between your legs nestles 1 dainty pair of feminine nether-lips, about 2 inches deep, when aroused.
+
+═══════════════════════════════════════════════════════════════════════
+  Total combos dumped: 65  (× 2 chance branches = 130 entries)
+═══════════════════════════════════════════════════════════════════════
